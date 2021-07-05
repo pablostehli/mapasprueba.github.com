@@ -51,6 +51,12 @@
         <title></title>
     </head>
     <body>
+        var BaseMapCarto = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}{r}.png', {
+attribution: '©
+<a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> ©
+<a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+        maxZoom: 15}).addTo(map);
         <div id="map">
             <div id="popup" class="ol-popup">
                 <a href="#" id="popup-closer" class="ol-popup-closer"></a>
