@@ -2,4 +2,5 @@
 Ejemplo
 
 <iframe src="Mapa.html" height="500" width="500"></iframe>
-You can explore this [clickeando aqui](Mapa.html)
+LLuvia 10 años de retorno[clickeando aqui](Mapa.html)
+LLuvia 25 años de retorno[clickeando aqui](https://pablostehli.github.io/mapaconbase)
