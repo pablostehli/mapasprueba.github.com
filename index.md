@@ -1,4 +1,4 @@
-## Pagina Web Laboratorio de Hidráulica.
+## Precipitaciones Máximas Diarias.
 # TR = 10 años.
 Este es un mapa ejemplo para una recurrencia de 10 años. Abajo encontrará los enlaces para los mapas de las demas recurrencias.
 
