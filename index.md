@@ -1,7 +1,7 @@
-## Prueba de Laboratorio
-Ejemplo
+## Tr = 10 años
+Este es un mapa ejemplo para una recurrencia de 10 años. Abajo encontrará los enlaces para los mapas de las demas recurrencias.
 
-<iframe src="Mapa.html" height="500" width="500"></iframe>
+<iframe src="Mapa.html" height="200" width="500"></iframe>
 #LLuvia 10 años de retorno[clickeando aqui](Mapa.html)
 
 
